@@ -1,11 +1,13 @@
 # Theming in Compose with Material 3 Codelab
 
-This folder contains the source code for
+This folder contains edited source code for
 the [Theming in Compose with Material 3 Codelab](https://developer.android.com/codelabs/jetpack-compose-theming)
 
 ## Screenshots
 
-![Theming states](screenshots/theming.png "Theming states")
+![ThemingScreenshot1](https://github.com/user-attachments/assets/8818623c-048e-4e8c-9f98-b13a0a65f97e)
+![ThemingScreenshot2](https://github.com/user-attachments/assets/8e87e4fb-5c0a-4882-98a3-960a11c562da)
+
 
 ## License
 
